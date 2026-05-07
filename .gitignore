@@ -2,6 +2,7 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+# comment to commit
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -25,7 +26,7 @@
 /[Aa]ssets/Plugins/Editor/JetBrains*
 # ARFoundationRemoteInstaller
 /[Aa]ssets/Plugins/ARFoundationRemoteInstaller*
-
+ 
 
 # Visual Studio cache directory
 .vs/
