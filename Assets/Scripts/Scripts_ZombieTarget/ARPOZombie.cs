@@ -187,4 +187,6 @@ void    OnPlanesChanged(ARPlanesChangedEventArgs eventArgs)
         
         Debug.Log("Escena actualizada");
     }
+    
+    
     }
