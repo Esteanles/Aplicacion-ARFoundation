@@ -25,7 +25,7 @@
 /[Aa]ssets/Plugins/Editor/JetBrains*
 # ARFoundationRemoteInstaller
 /[Aa]ssets/Plugins/ARFoundationRemoteInstaller*
-/Packages/manifest.json
+
 
 # Visual Studio cache directory
 .vs/
